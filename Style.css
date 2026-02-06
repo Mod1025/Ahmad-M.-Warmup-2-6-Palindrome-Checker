@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+}
+.w {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: #00FF00;
+}
+.main-card {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    background-size: cover;
+    border-radius: 20px;
+    color: #00FF00;
+    padding: 50px;
+    margin: 2%;
+}
+.h2 {
+    display: flex;
+    justify-content: center;
+    color: #00FF00;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+}
+.card1 {
+   border: 2px solid #00FF00 ;
+   padding: 20px;
+}
+.card1 h3 {
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+}
+.card1 p {
+    display: flex;
+    justify-content: center;
+}
+.card2 {
+   border: 2px solid #00FF00 ;
+   padding: 20px;
+   margin-top: 50px;
+}
+.card2 p {
+    display: flex;
+    justify-content: center;
+}
+.H {
+  display: flex;
+  justify-content: center;
+  gap: 15px;  
+} 
+.I {
+    background-color: #3b3b3b;
+    color: #00FF00;
+    border-bottom:1px solid #00FF00;
+    border-right: 1px solid #00FF00;
+    font-weight: 200;
+}
+button {
+    background-color: #3b3b3b;
+    color: #00FF00;
+    border-bottom:1px solid #00FF00;
+    border-right: 1px solid #00FF00;
+}
+button:hover {
+    background-color: #00FF00;
+    color: black;
+}
